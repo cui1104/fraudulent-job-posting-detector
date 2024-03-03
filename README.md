@@ -21,7 +21,12 @@ Due to the size of the dataset used in this tutorial, it is hosted externally. Y
 3. Follow the notebook instructions for uploading the dataset to your working environment.
 
 ## Contributing
-Contributions to this project are welcome! Please refer to the contributing guidelines for more information on how to submit issues, propose changes, or add new features.
+We welcome your interest in contributing to this project! For any questions about contributing, proposing changes, or adding new features, please feel free to contact the author directly:
+
+- Email: [henrycuiht@gmail.com]
+
+We look forward to your contributions and ideas!
+
 
 ## License
 This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
