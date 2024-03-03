@@ -24,4 +24,5 @@ Due to the size of the dataset used in this tutorial, it is hosted externally. Y
 Contributions to this project are welcome! Please refer to the contributing guidelines for more information on how to submit issues, propose changes, or add new features.
 
 ## License
-This project is licensed under the [MIT License](LICENSE.txt) - see the LICENSE file for details.
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
+
