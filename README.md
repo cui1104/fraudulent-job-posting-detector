@@ -9,7 +9,6 @@ This project utilizes machine learning techniques to identify fraudulent job pos
 
 **Step 2:** Install the required Python packages: `pip install -r requirements.txt`
 
-
 ## Usage
 After installing the required packages, open the notebook in Google Colab or Jupyter Notebook. The notebook is self-contained and guides you through the process of data loading, preprocessing, feature engineering, model training, and evaluation.
 
