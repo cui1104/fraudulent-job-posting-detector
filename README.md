@@ -14,7 +14,7 @@ This project utilizes machine learning techniques to identify fraudulent job pos
 After installing the required packages, open the notebook in Google Colab or Jupyter Notebook. The notebook is self-contained and guides you through the process of data loading, preprocessing, feature engineering, model training, and evaluation.
 
 ## Dataset
-Due to the size of the dataset used in this tutorial, it is hosted externally. You can download the dataset from the following link: [[Download Dataset](#)](https://rice.box.com/s/cikjxsg0d8k5wp2en3d0gudwjma58ou9)
+Due to the size of the dataset used in this tutorial, it is hosted externally. You can download the dataset from the following link: [[Download Dataset](#)][https://rice.box.com/s/cikjxsg0d8k5wp2en3d0gudwjma58ou9 (#)]
 
 **Instructions:**
 1. Download the dataset from the above link.
